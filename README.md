@@ -3,7 +3,7 @@
 ## Title: Markdown Study Guide 
 ---
 ### Author: Zhiliang Zhang  
-* (The author only collects online information, and the copyright of the webpage belongs to the original author/original website)*
+* (The author only collects online information, and the copyright of the webpage belongs to the original author/original website)
 ---
 ### the purpose and content of the tutorial:
 
