@@ -1,5 +1,4 @@
 # IT-1600-Final-project
-[Markdown study Gude](MarkdownstudyGuide.md):smile:
 ---
 ## Title: Markdown Study Guide 
 ---
@@ -13,3 +12,6 @@
 ### The target audience for the tutorial:
 
 * Anyone who wants to learn Markdown has no experience requirements and no age limit. Anyone without a programming or IT background, including non-technical users, can learn and use Markdown, Markdown is designed to be very simple, so even people who are new to programming can master it (relatively) quickly. There are no restrictions.
+
+
+### ```More Information```  [Markdown study Gude](MarkdownstudyGuide.md):smile:
