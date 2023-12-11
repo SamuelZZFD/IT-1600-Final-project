@@ -28,3 +28,9 @@
 
 6. [Macdown](https://macdown.uranusjr.com/) (Mac OS)
 
+## Markdown Video tutorial 
+1. [Learn Markdown in 30 minutes!](https://www.youtube.com/watch?v=bTVIMt3XllM)
+2. [Markdown Crash Course - Beginner Tutorial](https://www.youtube.com/watch?v=34_dRW42kYI)
+3. [Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo)
+4. [Academic Writing in Markdown](https://www.youtube.com/watch?v=hpAJMSS8pvs)
+5. [The Only Markdown Crash Course You Will Ever Need](https://www.youtube.com/watch?v=_PPWWRV6gbA)
