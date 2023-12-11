@@ -55,4 +55,5 @@
 2. [Squarespace](https://support.squarespace.com/hc/en-us/articles/206543587-Markdown-cheat-sheet)
 3. [Markdown Crash Course](https://blog.webdevsimplified.com/2023-06/markdown-crash-course/#interactive-markdown-editor)
 4. [daringfireball](https://daringfireball.net/projects/markdown/)
+5. [Markdownguide](https://www.markdownguide.org/cheat-sheet/)
 ### [Markdown online practice](https://www.markdowntutorial.com/)
