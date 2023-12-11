@@ -33,3 +33,10 @@
 3. [Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo)
 4. [Academic Writing in Markdown](https://www.youtube.com/watch?v=hpAJMSS8pvs)
 5. [The Only Markdown Crash Course You Will Ever Need](https://www.youtube.com/watch?v=_PPWWRV6gbA)
+
+## Markdown cheat sheet
+1. [Github Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+2. [Squarespace](https://support.squarespace.com/hc/en-us/articles/206543587-Markdown-cheat-sheet)
+3. [Markdown Crash Course](https://blog.webdevsimplified.com/2023-06/markdown-crash-course/#interactive-markdown-editor)
+4. [daringfireball](https://daringfireball.net/projects/markdown/)
+### [Markdown online practice](https://www.markdowntutorial.com/)
