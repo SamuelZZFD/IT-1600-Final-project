@@ -1,7 +1,7 @@
 # IT-1600-Final-project
-[Markdown study Gude](MarkdownstudyGuide.md)
+[Markdown study Gude](MarkdownstudyGuide.md):smile:
 ---
-## Title: Markdown Study Guide
+## Title: Markdown Study Guide 
 ---
 ### Author: Zhiliang Zhang  
 * (The author only collects online information, and the copyright of the webpage belongs to the original author/original website)*
