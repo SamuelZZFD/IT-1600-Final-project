@@ -14,18 +14,20 @@
 
 ## Free Markdown Editor recommend.
 
-1. [Interactive Markdown Editor]( https://blog.webdevsimplified.com/2023-06/markdown-crash-course/#interactive-markdown-editor)  (Online, interactive, Newbie friendly for practice). 
+1. [Interactive Markdown Editor]( https://blog.webdevsimplified.com/2023-06/markdown-crash-course/#interactive-markdown-editor)  (Online, interactive, Newbie friendly for practice).
+   >This web site also has all basic syntax you should know about Mark down!
 
-2. [Dillinger](https://dillinger.io/) (Online)
 
-3. [Logseq](https://logseq.com/) (Mac)
+3. [Dillinger](https://dillinger.io/) (Online)
 
-4. [CodeLobster](https://www.codelobster.com/download.html)
+4. [Logseq](https://logseq.com/) (Mac)
+
+5. [CodeLobster](https://www.codelobster.com/download.html)
  (Windows, Mac OS, Ubuntu)
 
-5. [Remarkableapp](https://remarkableapp.github.io/) ( Linux, Windows)
+6. [Remarkableapp](https://remarkableapp.github.io/) ( Linux, Windows)
 
-6. [Macdown](https://macdown.uranusjr.com/) (Mac OS)
+7. [Macdown](https://macdown.uranusjr.com/) (Mac OS)
 
 
 ## Basic Syntax
