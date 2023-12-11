@@ -1,7 +1,7 @@
 # Markdown Study Guide
 
 ### What is Markdown? 
-* Markdown is a lightweight markup language for creating formatted text using a plain-text editor. John Gruber created Markdown in 2004 as a markup language that is easy to read in its source code form.
+* Markdown is a lightweight markup language for creating formatted text using a plain-text editor. John Gruber created Markdown in 2004 as a markup language that is easy to read in its source code form.[^first]
 
 ### Why is Markdown?
 * Markdown is designed to be simple and easy to learn. Its syntax is intuitive and requires no long-term learning. This makes it accessible to a wide range of users. Markdown documents are plain text with syntax like the structure of the document. This makes it easy to read, write and understand even without rendering., can be edited in any text editor
@@ -61,3 +61,4 @@
 ### [Markdown online practice](https://www.markdowntutorial.com/)
 
 Go back to [README](README.md) :wink:
+[^first]:(https://en.wikipedia.org/wiki/Markdown)
