@@ -15,7 +15,6 @@
 ## Free Markdown Editor recommend.
 
 1. [Interactive Markdown Editor]( https://blog.webdevsimplified.com/2023-06/markdown-crash-course/#interactive-markdown-editor)  (Online, interactive, Newbie friendly for practice). 
-             * This website also has all the basic syntax you should know about Markdown
 
 2. [Dillinger](https://dillinger.io/) (Online)
 
